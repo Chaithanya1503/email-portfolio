@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Big Billion Days Sale</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f4f4f4;">
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="center">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="max-width:600px; background-color:#ffffff;">
+          <tr>
+            <td align="center" style="padding:20px; background-color:#2874f0;">
+              <h1 style="margin:0; color:#ffffff; font-family:Arial, sans-serif; font-size:24px;">Big Billion Days</h1>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://via.placeholder.com/600x300/2874f0/ffffff?text=Up+to+80%25+OFF" alt="Sale Banner" width="600" style="display:block; width:100%; max-width:600px;">
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:20px;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                  <td width="50%" style="padding:10px;">
+                    <img src="https://via.placeholder.com/260x260?text=Mobile" alt="Mobile" width="260" style="width:100%;">
+                    <p style="font-family:Arial, sans-serif; font-size:16px; margin:10px 0 5px 0;">Smartphone</p>
+                    <p style="font-family:Arial, sans-serif; font-size:18px; font-weight:bold; color:#388e3c; margin:0;">₹12,999</p>
+                  </td>
+                  <td width="50%" style="padding:10px;">
+                    <img src="https://via.placeholder.com/260x260?text=Laptop" alt="Laptop" width="260" style="width:100%;">
+                    <p style="font-family:Arial, sans-serif; font-size:16px; margin:10px 0 5px 0;">Laptop</p>
+                    <p style="font-family:Arial, sans-serif; font-size:18px; font-weight:bold; color:#388e3c; margin:0;">₹45,999</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:20px;">
+              <a href="https://example.com" style="background-color:#ff9f00; color:#ffffff; padding:15px 30px; text-decoration:none; border-radius:4px; font-family:Arial, sans-serif; font-weight:bold; display:inline-block;">Shop Now</a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:20px; font-family:Arial, sans-serif; font-size:12px; color:#666666;">
+              You received this email because you subscribed. <a href="#" style="color:#666666;">Unsubscribe</a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
